@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetKH" targetNamespace="http://tempuri.org/DataSetKH.xsd" xmlns:mstns="http://tempuri.org/DataSetKH.xsd" xmlns="http://tempuri.org/DataSetKH.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLTCConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLTCConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.Properties.Settings.GlobalReference.Default.QLTCConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTableKHTableAdapter" GeneratorDataComponentClassName="DataTableKHTableAdapter" Name="DataTableKH" UserDataComponentName="DataTableKHTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTCConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        CHINHANH.TENCN, KHACHHANG.SDT_KH, KHACHHANG.MACN, KHACHHANG.HOTEN_KH, KHACHHANG.DIACHI_KH, KHACHHANG.GIOITINH_KH
+FROM            CHINHANH INNER JOIN
+                         KHACHHANG ON CHINHANH.MACN = KHACHHANG.MACN</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TENCN" DataSetColumn="TENCN" />
+              <Mapping SourceColumn="SDT_KH" DataSetColumn="SDT_KH" />
+              <Mapping SourceColumn="MACN" DataSetColumn="MACN" />
+              <Mapping SourceColumn="HOTEN_KH" DataSetColumn="HOTEN_KH" />
+              <Mapping SourceColumn="DIACHI_KH" DataSetColumn="DIACHI_KH" />
+              <Mapping SourceColumn="GIOITINH_KH" DataSetColumn="GIOITINH_KH" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetKH" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSetKH" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetKH">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTableKH" msprop:Generator_RowEvHandlerName="DataTableKHRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTableKHRowDeleted" msprop:Generator_RowDeletingName="DataTableKHRowDeleting" msprop:Generator_RowEvArgName="DataTableKHRowChangeEvent" msprop:Generator_TablePropName="DataTableKH" msprop:Generator_RowChangedName="DataTableKHRowChanged" msprop:Generator_RowChangingName="DataTableKHRowChanging" msprop:Generator_TableClassName="DataTableKHDataTable" msprop:Generator_RowClassName="DataTableKHRow" msprop:Generator_TableVarName="tableDataTableKH" msprop:Generator_UserTableName="DataTableKH">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TENCN" msprop:Generator_ColumnPropNameInRow="TENCN" msprop:Generator_ColumnPropNameInTable="TENCNColumn" msprop:Generator_ColumnVarNameInTable="columnTENCN" msprop:Generator_UserColumnName="TENCN">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SDT_KH" msprop:Generator_ColumnPropNameInRow="SDT_KH" msprop:Generator_ColumnPropNameInTable="SDT_KHColumn" msprop:Generator_ColumnVarNameInTable="columnSDT_KH" msprop:Generator_UserColumnName="SDT_KH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MACN" msprop:Generator_ColumnPropNameInRow="MACN" msprop:Generator_ColumnPropNameInTable="MACNColumn" msprop:Generator_ColumnVarNameInTable="columnMACN" msprop:Generator_UserColumnName="MACN">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HOTEN_KH" msprop:Generator_ColumnPropNameInRow="HOTEN_KH" msprop:Generator_ColumnPropNameInTable="HOTEN_KHColumn" msprop:Generator_ColumnVarNameInTable="columnHOTEN_KH" msprop:Generator_UserColumnName="HOTEN_KH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DIACHI_KH" msprop:Generator_ColumnPropNameInRow="DIACHI_KH" msprop:Generator_ColumnPropNameInTable="DIACHI_KHColumn" msprop:Generator_ColumnVarNameInTable="columnDIACHI_KH" msprop:Generator_UserColumnName="DIACHI_KH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GIOITINH_KH" msprop:Generator_ColumnPropNameInRow="GIOITINH_KH" msprop:Generator_ColumnPropNameInTable="GIOITINH_KHColumn" msprop:Generator_ColumnVarNameInTable="columnGIOITINH_KH" msprop:Generator_UserColumnName="GIOITINH_KH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTableKH" />
+      <xs:field xpath="mstns:SDT_KH" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

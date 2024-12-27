@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetTC" targetNamespace="http://tempuri.org/DataSetTC.xsd" xmlns:mstns="http://tempuri.org/DataSetTC.xsd" xmlns="http://tempuri.org/DataSetTC.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLTCConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLTCConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.Properties.Settings.GlobalReference.Default.QLTCConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTableTCTableAdapter" GeneratorDataComponentClassName="DataTableTCTableAdapter" Name="DataTableTC" UserDataComponentName="DataTableTCTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTCConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        THUCUNG.MA_TC, THUCUNG.TEN_TC, THUCUNG.GIONG_TC, THUCUNG.MAULONG, THUCUNG.CANNANG, LOAI.TEN_L, NGUONGOC.TEN_NG
+FROM            THUCUNG INNER JOIN
+                         LOAI ON THUCUNG.MA_L = LOAI.MA_L INNER JOIN
+                         NGUONGOC ON THUCUNG.MA_NG = NGUONGOC.MA_NG</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MA_TC" DataSetColumn="MA_TC" />
+              <Mapping SourceColumn="TEN_TC" DataSetColumn="TEN_TC" />
+              <Mapping SourceColumn="GIONG_TC" DataSetColumn="GIONG_TC" />
+              <Mapping SourceColumn="MAULONG" DataSetColumn="MAULONG" />
+              <Mapping SourceColumn="CANNANG" DataSetColumn="CANNANG" />
+              <Mapping SourceColumn="TEN_L" DataSetColumn="TEN_L" />
+              <Mapping SourceColumn="TEN_NG" DataSetColumn="TEN_NG" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetTC" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSetTC" msprop:Generator_DataSetName="DataSetTC">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTableTC" msprop:Generator_RowEvHandlerName="DataTableTCRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTableTCRowDeleted" msprop:Generator_RowDeletingName="DataTableTCRowDeleting" msprop:Generator_RowEvArgName="DataTableTCRowChangeEvent" msprop:Generator_TablePropName="DataTableTC" msprop:Generator_RowChangedName="DataTableTCRowChanged" msprop:Generator_RowChangingName="DataTableTCRowChanging" msprop:Generator_TableClassName="DataTableTCDataTable" msprop:Generator_RowClassName="DataTableTCRow" msprop:Generator_TableVarName="tableDataTableTC" msprop:Generator_UserTableName="DataTableTC">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MA_TC" msprop:Generator_ColumnPropNameInRow="MA_TC" msprop:Generator_ColumnPropNameInTable="MA_TCColumn" msprop:Generator_ColumnVarNameInTable="columnMA_TC" msprop:Generator_UserColumnName="MA_TC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TEN_TC" msprop:Generator_ColumnPropNameInRow="TEN_TC" msprop:Generator_ColumnPropNameInTable="TEN_TCColumn" msprop:Generator_ColumnVarNameInTable="columnTEN_TC" msprop:Generator_UserColumnName="TEN_TC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GIONG_TC" msprop:Generator_ColumnPropNameInRow="GIONG_TC" msprop:Generator_ColumnPropNameInTable="GIONG_TCColumn" msprop:Generator_ColumnVarNameInTable="columnGIONG_TC" msprop:Generator_UserColumnName="GIONG_TC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MAULONG" msprop:Generator_ColumnPropNameInRow="MAULONG" msprop:Generator_ColumnPropNameInTable="MAULONGColumn" msprop:Generator_ColumnVarNameInTable="columnMAULONG" msprop:Generator_UserColumnName="MAULONG">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CANNANG" msprop:Generator_ColumnPropNameInRow="CANNANG" msprop:Generator_ColumnPropNameInTable="CANNANGColumn" msprop:Generator_ColumnVarNameInTable="columnCANNANG" msprop:Generator_UserColumnName="CANNANG" type="xs:double" />
+              <xs:element name="TEN_L" msprop:Generator_ColumnPropNameInRow="TEN_L" msprop:Generator_ColumnPropNameInTable="TEN_LColumn" msprop:Generator_ColumnVarNameInTable="columnTEN_L" msprop:Generator_UserColumnName="TEN_L">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TEN_NG" msprop:Generator_ColumnPropNameInRow="TEN_NG" msprop:Generator_ColumnPropNameInTable="TEN_NGColumn" msprop:Generator_ColumnVarNameInTable="columnTEN_NG" msprop:Generator_UserColumnName="TEN_NG">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTableTC" />
+      <xs:field xpath="mstns:MA_TC" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

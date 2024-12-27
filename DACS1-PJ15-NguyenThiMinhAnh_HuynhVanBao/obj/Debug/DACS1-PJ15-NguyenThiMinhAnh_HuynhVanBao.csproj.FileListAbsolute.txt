@@ -1,0 +1,346 @@
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe.config
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.AssemblyReference.cache
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.DangNhap.resources
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.NhanVien.resources
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.Properties.Resources.resources
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.GenerateResource.cache
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.CoreCompileInputs.cache
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.QuanLy.resources
+D:\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.TrangChu.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe.config
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.AssemblyReference.cache
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.DangNhap.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.Properties.Resources.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_QuanLy.TaiKhoan.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.GenerateResource.cache
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.CoreCompileInputs.cache
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.frmChinh.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.Chuong.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.DatCho.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.DichVu.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.HoaDon.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.KhachHang.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.Loai.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NguonGoc.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhaCungCap.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhanVien.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhapHang.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.SanPham.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.ThuCung.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.TrangChu.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe.config
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.AssemblyReference.cache
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.DangNhap.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.frmChinh.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.Properties.Resources.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.Chuong.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.DatCho.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.DichVu.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.HoaDon.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.KhachHang.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.Loai.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NguonGoc.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhaCungCap.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhanVien.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhapHang.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.SanPham.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.ThuCung.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.TrangChu.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_QuanLy.TaiKhoan.resources
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.GenerateResource.cache
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.CoreCompileInputs.cache
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\EnvDTE.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\stdole.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\EnvDTE.xml
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ.242D678D.Up2Date
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\EnvDTE.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\stdole.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\EnvDTE.xml
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\DACS1\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao - Copy\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ.242D678D.Up2Date
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe.config
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\EnvDTE.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.CapNhatGiaDV.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.CapNhatGiaSP.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.DangNhap.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.frmChinh.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.Properties.Resources.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.ReportNhapHang.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.ThongKeDoanhThu.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.ThongKePhieuNhap.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.ThongKeSanPham.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.Chuong.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.DatCho.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.DichVu.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.KhachHang.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.Loai.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NguonGoc.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhaCungCap.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhanVien.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhapHang.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.SanPham.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.ThuCung.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.TrangChu.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_QuanLy.TaiKhoan.resources
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ.242D678D.Up2Date
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+C:\Users\nguye\Downloads\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe.config
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\EnvDTE.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.AssemblyReference.cache
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.CapNhatGiaDV.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.CapNhatGiaSP.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.DangNhap.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.frmChinh.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.Properties.Resources.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.ReportNhapHang.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.ThongKeDoanhThu.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.ThongKePhieuNhap.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.ThongKeSanPham.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.Chuong.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.DatCho.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.DichVu.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.KhachHang.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.Loai.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NguonGoc.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhaCungCap.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhanVien.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.NhapHang.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.SanPham.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.ThuCung.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_NhanVien.TrangChu.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.UC_QuanLy.TaiKhoan.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.GenerateResource.cache
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.csproj.CoreCompileInputs.cache
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ.242D678D.Up2Date
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.exe
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao.pdb
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\obj\Debug\DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.frmReportHD.resources
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pengu\Desktop\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\DACS1-PJ15-NguyenThiMinhAnh_HuynhVanBao\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

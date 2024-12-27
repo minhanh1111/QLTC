@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetSP" targetNamespace="http://tempuri.org/DataSetSP.xsd" xmlns:mstns="http://tempuri.org/DataSetSP.xsd" xmlns="http://tempuri.org/DataSetSP.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLTCConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLTCConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DACS1_PJ15_NguyenThiMinhAnh_HuynhVanBao.Properties.Settings.GlobalReference.Default.QLTCConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTableSPTableAdapter" GeneratorDataComponentClassName="DataTableSPTableAdapter" Name="DataTableSP" UserDataComponentName="DataTableSPTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTCConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        SANPHAM.MA_SP, SANPHAM.TEN_SP, SANPHAM.SOLUONG_SP, GIASP.GIA_SP, GIASP.NGAYCAPNHAT_SP
+FROM            SANPHAM INNER JOIN
+                         GIASP ON SANPHAM.MA_SP = GIASP.MA_SP</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MA_SP" DataSetColumn="MA_SP" />
+              <Mapping SourceColumn="TEN_SP" DataSetColumn="TEN_SP" />
+              <Mapping SourceColumn="SOLUONG_SP" DataSetColumn="SOLUONG_SP" />
+              <Mapping SourceColumn="GIA_SP" DataSetColumn="GIA_SP" />
+              <Mapping SourceColumn="NGAYCAPNHAT_SP" DataSetColumn="NGAYCAPNHAT_SP" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetSP" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSetSP" msprop:Generator_DataSetName="DataSetSP">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTableSP" msprop:Generator_RowEvHandlerName="DataTableSPRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTableSPRowDeleted" msprop:Generator_RowDeletingName="DataTableSPRowDeleting" msprop:Generator_RowEvArgName="DataTableSPRowChangeEvent" msprop:Generator_TablePropName="DataTableSP" msprop:Generator_RowChangedName="DataTableSPRowChanged" msprop:Generator_RowChangingName="DataTableSPRowChanging" msprop:Generator_TableClassName="DataTableSPDataTable" msprop:Generator_RowClassName="DataTableSPRow" msprop:Generator_TableVarName="tableDataTableSP" msprop:Generator_UserTableName="DataTableSP">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MA_SP" msprop:Generator_ColumnPropNameInRow="MA_SP" msprop:Generator_ColumnPropNameInTable="MA_SPColumn" msprop:Generator_ColumnVarNameInTable="columnMA_SP" msprop:Generator_UserColumnName="MA_SP">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TEN_SP" msprop:Generator_ColumnPropNameInRow="TEN_SP" msprop:Generator_ColumnPropNameInTable="TEN_SPColumn" msprop:Generator_ColumnVarNameInTable="columnTEN_SP" msprop:Generator_UserColumnName="TEN_SP">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SOLUONG_SP" msprop:Generator_ColumnPropNameInRow="SOLUONG_SP" msprop:Generator_ColumnPropNameInTable="SOLUONG_SPColumn" msprop:Generator_ColumnVarNameInTable="columnSOLUONG_SP" msprop:Generator_UserColumnName="SOLUONG_SP" type="xs:int" />
+              <xs:element name="GIA_SP" msprop:Generator_ColumnPropNameInRow="GIA_SP" msprop:Generator_ColumnPropNameInTable="GIA_SPColumn" msprop:Generator_ColumnVarNameInTable="columnGIA_SP" msprop:Generator_UserColumnName="GIA_SP" type="xs:double" />
+              <xs:element name="NGAYCAPNHAT_SP" msprop:Generator_ColumnPropNameInRow="NGAYCAPNHAT_SP" msprop:Generator_ColumnPropNameInTable="NGAYCAPNHAT_SPColumn" msprop:Generator_ColumnVarNameInTable="columnNGAYCAPNHAT_SP" msprop:Generator_UserColumnName="NGAYCAPNHAT_SP" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTableSP" />
+      <xs:field xpath="mstns:MA_SP" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
